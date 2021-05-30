@@ -21,7 +21,8 @@ I'll express myself according to the form (?) in the README provided by GitHub.(
 Thanks for reading and paying attention :D
 
 
-<div style="padding-top:40px; text-align:center">
+[comment]: <> (<div style="padding-top:40px; text-align:center">)
+<div align='center'>
 
 ## Tech Stack
 I've used at least once more   
@@ -76,21 +77,21 @@ I've used at least once more
 ## I can use
 (pretty good 👍🏻)
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/>
 <br />
 <br />
 <br />
 
 ## IDE
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
 <br />
 <br />
 <br />
@@ -98,8 +99,9 @@ I've used at least once more
 ## Collaboration tool
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 
@@ -129,7 +131,10 @@ I've used at least once more
 <br />
 
 ## Me
-<a href="https://velog.io/@lilyseo" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@lilyseo" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+<a href="mailto:purism02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
 </div>
 
 <!-- HTML5, CSS3, Sass, Less, Bootstrap, WordPress,
